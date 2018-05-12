@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9697
     wikipedia: https://en.wikipedia.org/wiki/Otwell_Binns
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21055#A-Mating-in-the-Wilds
 gutenberg_issued: '2007-04-13'
 gutenberg_type: Text
 identifiers:
