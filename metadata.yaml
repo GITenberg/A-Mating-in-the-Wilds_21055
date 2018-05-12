@@ -1,0 +1,28 @@
+_repo: A-Mating-in-the-Wilds_21055
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Binns, Ottwell
+    birthdate: 1872
+    deathdate: 1935
+    gutenberg_agent_id: '9697'
+    url: http://www.gutenberg.org/2009/agents/9697
+    wikipedia: https://en.wikipedia.org/wiki/Otwell_Binns
+description: ''
+gutenberg_issued: '2007-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21055'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Canada -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Frontier and pioneer life -- Canada -- Fiction'
+title: A Mating in the Wilds
+url: http://www.gutenberg.org/ebooks/21055
